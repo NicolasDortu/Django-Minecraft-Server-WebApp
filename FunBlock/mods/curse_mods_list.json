@@ -1,0 +1,267 @@
+[
+  {
+    "ModName" : "AlexMob",
+    "projectID": 426558,
+    "fileID": 4959531
+  },
+  {
+    "ModName" : "JEI",
+    "projectID": 238222,
+    "fileID": 5101366
+  },
+  {
+    "ModName" : "Citadel",
+    "projectID": 331936,
+    "fileID": 5075402
+  },
+  {
+    "ModName" : "AppleSkin",
+    "projectID": 248787,
+    "fileID": 4770828
+  },
+  {
+    "ModName" : "Architectury",
+    "projectID": 419699,
+    "fileID": 5084452
+  },
+  {
+    "ModName" : "Balm",
+    "projectID": 531761,
+    "fileID": 5140912
+  },
+  {
+    "ModName" : "BetterCombat",
+    "projectID": 639842,
+    "fileID": 5065424
+  },
+  {
+    "ModName" : "BiomesOPlenty",
+    "projectID": 220318,
+    "fileID": 4764804
+  },
+  {
+    "ModName" : "Bookshelf",
+    "projectID": 228525,
+    "fileID": 5084135
+  },
+  {
+    "ModName" : "ClothConfig",
+    "projectID": 348521,
+    "fileID": 4973441
+  },
+  {
+    "ModName" : "Collective",
+    "projectID": 342584,
+    "fileID": 5138035
+  },
+  {
+    "ModName" : "Cristllib",
+    "projectID": 856996,
+    "fileID": 4861833
+  },
+  {
+    "ModName" : "Embeddium",
+    "projectID": 908741,
+    "fileID": 5175031
+  },
+  {
+    "ModName" : "EnchantmentDescriptions",
+    "projectID": 250419,
+    "fileID": 5136988
+  },
+  {
+    "ModName" : "FarmersDelight",
+    "projectID": 398521,
+    "fileID": 5051242
+  },
+  {
+    "ModName" : "FerriteCore",
+    "projectID": 429235,
+    "fileID": 4810975
+  },
+  {
+    "ModName" : "ImmersiveAircrafts",
+    "projectID": 666014,
+    "fileID": 5158257
+  },
+  {
+    "ModName" : "JourneyMap",
+    "projectID": 32274,
+    "fileID": 5157733
+  },
+  {
+    "ModName" : "LibraryFerret",
+    "projectID": 532727,
+    "fileID": 4601234
+  },
+  {
+    "ModName" : "Lootr",
+    "projectID": 361276,
+    "fileID": 5082091
+  },
+  {
+    "ModName" : "YDMMobHealthBar",
+    "projectID": 559894,
+    "fileID": 4818965
+  },
+  {
+    "ModName" : "ModernFix",
+    "projectID": 790626,
+    "fileID": 5077298
+  },
+  {
+    "ModName" : "Moonlight",
+    "projectID": 499980,
+    "fileID": 5146536
+  },
+  {
+    "ModName" : "Oculus",
+    "projectID": 581495,
+    "fileID": 5108615
+  },
+  {
+    "ModName" : "PlayerAnimation",
+    "projectID": 658587,
+    "fileID": 4587214
+  },
+  {
+    "ModName" : "spark",
+    "projectID": 361579,
+    "fileID": 4738952
+  },
+  {
+    "ModName" : "starlight",
+    "projectID": 526854,
+    "fileID": 4631193
+  },
+  {
+    "ModName" : "supplementaries",
+    "projectID": 412082,
+    "fileID": 5154529
+  },
+  {
+    "ModName" : "terrablender",
+    "projectID": 563928,
+    "fileID": 5068218
+  },
+  {
+    "ModName" : "waystones",
+    "projectID": 245755,
+    "fileID": 4962610
+  },
+  {
+    "ModName" : "SmallShips",
+    "projectID": 450659,
+    "fileID": 5148122
+  },
+  {
+    "ModName" : "CCTweaked",
+    "projectID": 282001,
+    "fileID": 5204976
+  },
+  {
+    "ModName" : "Create",
+    "projectID": 328085,
+    "fileID": 4835191
+  },
+  {
+    "ModName" : "bridges",
+    "projectID": 351725,
+    "fileID": 4605466
+  },
+  {
+    "ModName" : "anotherfurnitures",
+    "projectID": 610492,
+    "fileID": 4815124
+  },
+  {
+    "ModName" : "windows",
+    "projectID": 363569,
+    "fileID": 4961142
+  },
+  {
+    "ModName" : "ChatHeads",
+    "projectID": 407206,
+    "fileID": 5186927
+  },
+  {
+    "ModName" : "Configured",
+    "projectID": 457570,
+    "fileID": 5180900
+  },
+  {
+    "ModName" : "PaladinFurniture",
+    "projectID": 663141,
+    "fileID": 5149461
+  },
+  {
+    "ModName" : "OfflineSkins",
+    "projectID": 241420,
+    "fileID": 4592954
+  },
+  {
+    "ModName" : "SimpleLogin",
+    "projectID": 312664,
+    "fileID": 4745380
+  },
+  {
+    "ModName" : "Automobility",
+    "projectID": 658286,
+    "fileID": 4613497
+  },
+  {
+    "ModName" : "KotlinForForge",
+    "projectID": 351264,
+    "fileID": 4983659
+  },
+  {
+    "ModName" : "ValkyrienSkies",
+    "projectID": 258371,
+    "fileID": 5212232
+  },
+  {
+    "ModName" : "EurekeShips",
+    "projectID": 654384,
+    "fileID": 5000735
+  },
+  {
+    "ModName" : "BouncingBalls",
+    "projectID": 246030,
+    "fileID": 4586885
+  },
+  {
+    "ModName" : "BouncingBallsAPI",
+    "projectID": 651871,
+    "fileID": 4585154
+  },
+  {
+    "ModName" : "NoChatReport",
+    "projectID": 634062,
+    "fileID": 4610474
+  },
+  {
+    "ModName" : "FlyWheelCompat",
+    "projectID": 659897,
+    "fileID": 5120096
+  },
+  {
+    "ModName" : "PointBlank",
+    "projectID": 961053,
+    "fileID": 5278247
+  },
+  {
+    "ModName" : "GeckoLib",
+    "projectID": 388172,
+    "fileID": 5188427
+  },
+  {
+    "ModName" : "JustZoom",
+    "projectID": 561885,
+    "fileID": 4641225
+  },
+  {
+    "ModName" : "Konkrete",
+    "projectID": 410295,
+    "fileID": 5028413
+  }
+]

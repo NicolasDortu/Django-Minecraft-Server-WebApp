@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% load static %}
+{% block title %} FunBlock {% endblock title %}
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}">
+<link rel="shortcut icon" type="image/ico" href="{% static 'images/favicon.ico' %}" >
+<div class="image-container relative-container">
+    <img src="{% static 'images/BackgroundFunBlock.png' %}" alt="FunBlock" class="full-width-image">
+    <div class="row position-absolute w-100" style="top: 80%; transform: translateY(-50%);">
+        <div class="col-md-6 d-flex justify-content-center">
+            <a href="{% url 'download_file' %}" class="download-button btn">
+                <div class="button-content">
+                    Telecharge le launcher ici
+                    <img src="{% static 'images/GreenSword.png' %}" alt="GreenSword" class="responsive-img flip-vertical">
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6 d-flex justify-content-center">
+            <a href="https://discord.gg" class="discord-button btn">
+                <div class="button-content">
+                    <img src="{% static 'images/PurpleSword.png' %}" alt="PurpleSword" class="responsive-img">
+                    Rejoins notre Discord ici
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="container my-3">
+<p class="customfont rainbow" style="margin-bottom: 2vw;">Welcome to FunBlock !</p>
+<p class="customfont" style="margin-bottom: 4vw;">Pour rejoindre le serveur il suffit de telecharger le launcher ! </p>
+<p class="customfont" style="margin-bottom: 4vw;">Une fois installe, vous pourrez vous connecter avec votre compte Minecraft officiel ou choisir un pseudo pour jouer en version non-officielle.</p>
+<p class="customfont" style="margin-bottom: 4vw;">Un mot de passe unique sera demande au lancement du jeu, conservez-le bien !</p>
+<div class="rainbow-box">
+    <p class="customfont" style="font-size: 2.5vw;">Plus qu'a vous connecter a l'adresse : <strong>funblock.apexmc.co</strong></p>
+</div>
+<div class="customfont d-flex align-items-center" style="margin-top: 4vw; margin-bottom: 2vw;">
+    <img src="{% static 'images/jupiler.png' %}" alt="Brand Logo" width="50" height="50" class="d-inline-block align-top ml-2">
+    Enjoy ze serveur !
+    <img src="{% static 'images/carapils.png' %}" alt="Brand Logo" width="50" height="55" class="d-inline-block align-top ml-2">
+</div>
+</div>
+</div>
+<footer class="footer">
+    <p>FunBlock Serveur WebApp, by Nico 🐸</p>
+</footer>
+{% endblock content %}

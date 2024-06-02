@@ -1,0 +1,137 @@
+/* .container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+} */
+
+@font-face {
+  font-family: 'PixelArtFont';
+  src: url('fonts/MinecraftTen-VGORe.ttf') format('truetype');
+}
+
+.absolute-navbar {
+  position: absolute;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  z-index: 2;
+  font-family: 'PixelArtFont', sans-serif;
+}
+
+.relative-container {
+  position: relative;
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+.image-container {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.full-width-image {
+  width: 100%;
+  height: auto; /* maintain aspect ratio */
+  display: block; /* ensures it fills the line */
+}
+
+.download-button, .discord-button {
+  background-color: #4caf4fdc;
+  color: rgb(120, 255, 61);
+  text-align: center;
+  line-height: 2vw;
+  text-decoration: none;
+  border-radius: 15px;
+  font-family: 'PixelArtFont', sans-serif;
+  padding: 10px 20px; /* adjust padding rather than fixed width/height */
+  font-size: 1.8vw; /* adjust font size based on viewport width */
+  width: auto;
+  height: auto;
+  display: flex; /* use flexbox */
+  flex-wrap: wrap;
+  margin-left: 30px;
+}
+
+
+.text-content { /* If you decide to wrap text separately from the image */
+  flex: 1 1 auto; /* Allows the text to grow and shrink as needed */
+  text-align: center; /* Ensures text remains centered */
+}
+
+.download-button:hover, .discord-button:hover {
+  text-decoration: none;
+  color: white;
+  background-color: #3f8f3fe5; /* modify as needed per button */
+}
+
+
+.discord-button {
+  background-color: #b623cab8;
+  color: rgb(252, 125, 223);
+}
+
+.button-content {
+  display: flex;
+  align-items: center; /* This ensures vertical alignment is centered */
+  justify-content: center; /* This centers the content horizontally */
+  gap: 10px; /* Adjust the gap between the image and text */
+  padding: 0px; /* Optional: adds some padding inside the button */
+}
+
+.discord-button:hover {
+  text-decoration: none;
+  color: white;
+  background-color: #b623cad5;
+}
+
+.responsive-img {
+  width: 15%; /* make image size responsive */
+  height: auto; /* maintain aspect ratio */
+}
+
+.flip-vertical {
+  transform: scaleX(-1);
+}
+
+@media (max-width: 768px) {
+  .download-button, .discord-button {
+    font-size: 4vw; /* increase font size on smaller screens */
+  }
+}
+
+
+.customfont {
+  font-family: 'PixelArtFont', sans-serif;
+  font-size: 2vw;
+  justify-content: center;
+  text-align: center;
+  color: #323232;
+}
+
+.rainbow {
+  background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3vw;
+}
+
+.rainbow-box {
+  border: 8px solid;
+  border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet) 1;
+  padding: 12px;
+}
+
+.footer {
+  width: 100%;
+  background-color: #4caf4fca;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  height: 25px; /* adjust as needed */
+}
